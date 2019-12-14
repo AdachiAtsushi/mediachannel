@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.header {
+    margin: 50px 0 15px 0;
+    font-size: 18px;
+    background-size: cover;
+}
+
+.header h1 {
+    margin-left: 20px;
+}
+
+.header p {
+    margin-left: 35px;
+}
+
+.main {
+    text-align:center;
+    padding-top: 80px;
+    margin: 50px 0 50px 0;
+}
+
+.main .timer {
+    font-size: 60px;
+}
+
+.main .button {
+    padding: 15px 0 30px 0;
+    margin-bottom: 50px;
+}
+
+.footer {
+    font-weight: bold;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer li {
+    padding-right: 20px;
+    float: right;
+}
